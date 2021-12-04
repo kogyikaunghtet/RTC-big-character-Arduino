@@ -1,7 +1,7 @@
 # RTC-bit-character-Arduino
 Big Character Arduino Clock
 
-![RTC_Arduino](RTC-Arduino.jpg)
+![RTC_Arduino](RTC-Arduino.png)
 
 ## Components
 * Arduino Nano
@@ -17,7 +17,9 @@ Big Character Arduino Clock
 
 ## Require Library
 RTC Library: https://github.com/adafruit/RTClib
+<br>
 Here's a convenient website for UNIX time, you will need it:
+<br>
 Convert Time: http://www.onlineconversion.com/unix_time.htm
 
 ## Design Files
