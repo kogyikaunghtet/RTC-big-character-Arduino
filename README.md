@@ -1,4 +1,4 @@
-# RTC-bit-character-Arduino
+# RTC-big-character-Arduino
 Big Character Arduino Clock
 
 ![RTC_Arduino](RTC-Arduino.png)
